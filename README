@@ -1,1 +1,19 @@
 Private project where I get a bit more effective at test-driven development
+
+
+Description of what I want this program to do:
+I have a shelf of films I own.
+I lend them out to friends from time to time.
+I organise my films alphabetically, ignoring the word "The", but not the word "a"
+I need to know which of my friends have my films.
+I'm bad at alphabetising films so I need my program to do it for me for reference.
+
+
+Classes I'll need:
+Shelf
+Friends
+DVDs
+
+Relationships:
+Shelf holds/sorts DVDs
+Friends borrow DVDs
